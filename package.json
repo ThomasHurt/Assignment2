@@ -1,0 +1,20 @@
+{
+  "name": "2-HTML-CSS-Assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "start": "live-server"
+  },
+  "author": "Thomas Hurt",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "",
+    "live-server": ""
+  },
+  "repository": {
+    "url": "https://github.com/ThomasHurt/Assignment2.git",
+    "type": "git"
+  }
+}
